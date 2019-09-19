@@ -1,6 +1,5 @@
-# learning-projects
+# HTML5, CSS3 com Sass e JS simples
 
-I've always wanted to learn coding and work with it but thought that didn't have time for start to learn the skill.
-Lately I decided to change my professional life and started taking lessons. I'm focused on learning and hope to start working as a programmer.
+Este projeto teve com intuito desenvolver habilidades de criação de uma One Page com HTML, CSS3 e Sass.
 
-This repository will hold my learning code projects.
+O projeto usa como base arquivos obtidos em cursos da Alura, completos por mim.
